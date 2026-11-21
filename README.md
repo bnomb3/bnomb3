@@ -1,4 +1,10 @@
-## Hi there 👋
+- 👋 Hi, there
+- 👀 I’m interested in ...nerdy stuff
+- 🌱 I’m currently learning ...AI stuff
+- 💞️ I’m looking to collaborate on ...interesting stuff
+- 📫 How to reach me ...PM here
+- 😄 Pronouns: ...He/him
+- ⚡ Fun fact: ...I can recite 100 digits of pi :-)
 
 <!--
 **bnomb3/bnomb3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
